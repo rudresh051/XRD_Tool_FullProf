@@ -1,5 +1,6 @@
 # Rietveld Refinement of X-ray Diffraction Data Using FullProf Package - Part I
 
+Link - https://www.youtube.com/watch?v=GI3N3HVN3xc
 
 ```txt
 Structural Analysis using Rietveld Refinement (FullProf Package/ Suite): 
@@ -13,7 +14,7 @@ The results of the analysis will provide
 
 ![alt text](image-1.png)
 
-Link - https://www.youtube.com/watch?v=GI3N3HVN3xc
+
 
 > Download the .cif file  
 > Enter the Bi, Fe and O 
@@ -31,4 +32,7 @@ This is the file we need to download
 
 > You have to download atleast one  
 > Now, next is our X-ray diffraction Data file  
+
+> Download Orgin Software  
+> https://www.originlab.com/demodownload.aspx 
 
